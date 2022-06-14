@@ -5411,6 +5411,7 @@
             "time": "2020-07-09T08:09:16+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/breeze",
             "version": "v1.9.3",
             "source": {
@@ -5468,6 +5469,8 @@
             "time": "2022-06-01T13:44:02+00:00"
         },
         {
+=======
+>>>>>>> b8db88751ac4831d5051a974238b497a667deebf
             "name": "laravel/sail",
             "version": "v1.14.10",
             "source": {
